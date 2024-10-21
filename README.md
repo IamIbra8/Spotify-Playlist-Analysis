@@ -1,4 +1,4 @@
-# Spotify-Playlist-Analysis
+# Spotify Playlist Analysis using Python
 In this Project, I have applied different types of Machine Learning algorithms to a Spotify Playlist dataset.
 Different types of analysis done in this Project are:
   1) Linear Regression Analysis: Linear regression is a supervised algorithm that predicts the value of unknown data by using another related and known data value. In this project for Linear Regression, I have split the dataset such that 70% would be used to train the model and the rest 30% would be used to test it.
